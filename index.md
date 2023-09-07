@@ -15,7 +15,7 @@
 ```
 **GITHUB Actions**
 ```
-1. Github Action overview
+1. Github Actions overview
 2. Install the GitHUB Runner
 3. CICD using GH Actions
 4. Writing GH Actions up to Intermediate Level
@@ -24,11 +24,11 @@
 
 **DevSecOPS**
 ```
-1. What is Vunerability in DevSecOPS world 
+1. What is vulnerability in DevSecOPS world 
 2. SonarQube to peform the SAST [ Code analysis]
-3. OWSASP to scan the OSS [ Open Source venerabilities]
+3. OWSASP to scan the OSS [ Open Source vulnerability]
 4. Integrate DevSecOPS tools with Jenkins
 5. Integrate DevSecOPS tools with GH Actions
-6. How to Traige the Vunerabilities Identified
+6. How to Traige the vulnerability Identified
 
 ```
