@@ -4,13 +4,13 @@
 **Jenkins**
 
 ```
-1 Install the Jenkins in container and automate the process of installing plugins
-2.Jenkins Advanced Pipelines using DIND/Docker insider docker
-3.Jenkins Shared Libraries Implementation 
-4.Jenkin Upgrade from x version to y version
-5.Multi-Branch Pipeline setup
-6.Jenkins Backup Strategy/HA
-7.How to configure the Builds for Gradle , NPM , Python Based Applications
+1. Install the Jenkins in container and automate the process of installing plugins
+2. Jenkins Advanced Pipelines using DIND/Docker insider docker
+3. Jenkins Shared Libraries Implementation 
+4. Jenkin Upgrade from x version to y version
+5. Multi-Branch Pipeline setup
+6. Jenkins Backup Strategy/HA
+7. How to configure the Builds for Gradle , NPM , Python Based Applications
 
 ```
 **GITHUB Actions**
