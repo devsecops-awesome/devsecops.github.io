@@ -34,6 +34,8 @@
 ```
 **Course Fee Details and How to Pay**
 **Fee: 2999 Rs until Dec 4th 2023 - Flat 10% offer**
-**So whoever interested to enroll on or before Dec 4th 2023 - they can pay 2700 Rs only.**
+**So whoever interested to enroll on or before Dec 4th 2023 - they can pay 2700 Rs only via below UPI QR Scan**
 
-![Alt text](myupi.jpeg?raw=true "UPI Payment QR Code")
+<!--  ![Alt text](myupi.jpeg?raw=true "UPI Payment QR Code") -->
+
+<img src="myupi.jpeg" width="250">
