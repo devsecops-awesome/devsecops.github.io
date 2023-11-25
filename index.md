@@ -33,13 +33,14 @@
 
 ```
 
-**Course Duration : 3 weeks**
+## Course Duration : 3 weeks
 
-**Course Start date: 11th December or 18th December [ it will be communicated in telegram channel ]**
+## Course Start date: 11th December or 18th December [ it will be communicated in telegram channel ]
 
-**Course Timings: 8:30 PM to 9:45 PM IST [Monday-Friday] Saturday and Sunday are holiday**
+## Course Timings: 8:30 PM to 9:45 PM IST [Monday-Friday] Saturday and Sunday are holidays
 
-**Course Fee Details and How to Pay**
+## Course Fee Details and How to Pay
+
 **Fee: 2999 Rs until Dec 4th 2023 - Flat 10% offer**
 **So whoever interested to enroll on or before Dec 4th 2023 - they can pay 2700 Rs only via below UPI QR Scan**
 
