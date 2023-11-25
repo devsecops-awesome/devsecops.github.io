@@ -38,4 +38,4 @@
 
 <!--  ![Alt text](myupi.jpeg?raw=true "UPI Payment QR Code") -->
 
-<img src="myupi.jpeg" width="250">
+<img src="myupi.jpeg" width="350">
