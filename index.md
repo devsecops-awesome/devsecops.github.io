@@ -33,7 +33,7 @@
 
 ```
 
-## Course Duration : 3 weeks
+<!-- ## Course Duration : 3 weeks
 
 ## Course Start date: 8th December [ In case of any changes it will be communicated in telegram channel ]
 
@@ -46,6 +46,5 @@
 
 **you can join this telegram group - https://t.me/+G79mJLTXi_s3NDZl - to ask any question if any ! before enrollment or post your payment screenshot**
 
-<!--  ![Alt text](myupi.jpeg?raw=true "UPI Payment QR Code") -->
 
-<img src="myupi.jpeg" width="350">
+<img src="myupi.jpeg" width="350"> -->
